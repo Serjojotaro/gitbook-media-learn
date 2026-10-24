@@ -44,12 +44,12 @@ by [RWRK](https://t.me/RWRK_btw)
 Фото от [JRTQ](https://t.me/JRTQQ)
 {% endtab %}
 
-{% tab title="IKLS" %}
+{% tab title="ILKS" %}
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-Фото от [IKLS](https://t.me/vliiicxiiiiill)
+Фото от [ILKS](https://t.me/vliiicxiiiiill)
 {% endtab %}
 {% endtabs %}
 
