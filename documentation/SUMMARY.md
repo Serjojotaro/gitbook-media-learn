@@ -6,6 +6,7 @@
 
 * [Могу ли я стать фотографом?](nachalo-v-fotografii/mogu-li-ya-stat-fotografom.md)
 * [На что фотать?](nachalo-v-fotografii/na-chto-fotat.md)
+* [Как выбрать свой идеальный фотоаппарат?](nachalo-v-fotografii/kak-vybrat-svoi-idealnyi-fotoapparat.md)
 * [С чего начать свой путь в фотографии?](nachalo-v-fotografii/s-chego-nachat-svoi-put-v-fotografii.md)
 
 ## Знакомство с фотоаппаратом
@@ -15,4 +16,4 @@
 ## Истории наших фотографов
 
 * [👁️ SRJT](istorii-nashikh-fotografov/srjt.md)
-* [JRTQ](istorii-nashikh-fotografov/jrtq.md)
+* [🥟 JRTQ](istorii-nashikh-fotografov/jrtq.md)
