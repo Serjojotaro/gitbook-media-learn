@@ -1,0 +1,6 @@
+- tag: srjt
+  label: SRJT
+  color: $primary
+- tag: bio
+  label: bio
+  color: blue
