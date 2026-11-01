@@ -11,7 +11,7 @@
 
 ## Знакомство с фотоаппаратом
 
-* [Page 1](znakomstvo-s-fotoapparatom/page-1.md)
+* [Первые шаги в понимании вашей камеры](znakomstvo-s-fotoapparatom/page-1.md)
 
 ## Истории наших фотографов
 
